@@ -1,3 +1,0 @@
-data_source:
-  kaggle_download_path: C:/Users/varsh/.cache/kagglehub/datasets/hellbuoy/car-price-prediction/versions/1/CarPrice_Assignment.csv
-  local_artifact_path: artifacts/raw_data/CarPrice_Assignment.csv
